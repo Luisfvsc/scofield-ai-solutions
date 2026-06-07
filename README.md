@@ -19,15 +19,27 @@ MVP de um assistente pessoal extensivel. Ele roda localmente, guarda memoria, cr
 - Painel visual com conectores disponiveis.
 - Exportacao da memoria em JSON.
 
-## Como abrir rapido
+## Como abrir rapido no navegador
 
-Abra:
+Link direto:
+
+```text
+https://cdn.jsdelivr.net/gh/Luisfvsc/scofield-ai-solutions@main/public/index.html
+```
+
+Ou, se o GitHub Pages estiver ativado:
+
+```text
+https://luisfvsc.github.io/scofield-ai-solutions/
+```
+
+Se voce baixou/clonou o projeto, abra:
 
 ```text
 outputs/abrir-assistente.html
 ```
 
-Essa versao funciona direto no navegador. A memoria fica salva no armazenamento local do navegador.
+A memoria fica salva no armazenamento local do navegador.
 
 ## Como rodar com servidor
 
